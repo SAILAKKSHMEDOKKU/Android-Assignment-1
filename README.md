@@ -1,12 +1,12 @@
 # For Q1
 
 # Data Structures Used:
-Hash map for O(1) key lookups
-Doubly linked list to maintain access order
+- Hash map for O(1) key lookups
+- Doubly linked list to maintain access order
 
 # Operations Used:
-`get(key)`: Returns value if exists, -1 otherwise
-`put(key, value)`: Inserts/updates value, evicting LRU item if full
+- `get(key)`: Returns value if exists, -1 otherwise
+- `put(key, value)`: Inserts/updates value, evicting LRU item if full
 
 
 

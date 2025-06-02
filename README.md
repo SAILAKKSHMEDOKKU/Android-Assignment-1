@@ -1,4 +1,4 @@
-#For Q1
+# For Q1
 
 # Data Structures Used:
 Hash map for O(1) key lookups
@@ -37,7 +37,7 @@ An Android application that allows users to browse, rate, and review books. This
 -  View other users' reviews
 -  Clean and user-friendly UI
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Java / Kotlin** (depending on your implementation)
 - **Firebase** – for authentication and real-time database
